@@ -9,14 +9,6 @@ namespace CommunicationService.Message
     public enum MessageKind : int
     {
         HeartBeat,
-        Echo,
-        Error,
-        CloseAllPopup,
-        CloseLauncher,
-        Menu,
-        AtomReconnect,
-        StopMonitor,
-        ToolTip,
-        Other
+        Echo
     }
 }
