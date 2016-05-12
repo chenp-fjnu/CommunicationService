@@ -13,6 +13,7 @@ namespace CommunicatorServiceDemo
     {
         static void Main(string[] args)
         {
+            //test for pull request
             var msg = new HeartBeatMessage()
             {
                 User = "me",
