@@ -8,3 +8,5 @@ My changes:
 Change to use EventWaitHandle instead Thread.Sleep for read/write thread.Four signals per communicator, any better way?
 
 Cache MemoryMappedFileCommunicator for specific key in factory.
+
+change from NFutureC
