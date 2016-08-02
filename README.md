@@ -9,4 +9,4 @@ Change to use EventWaitHandle instead Thread.Sleep for read/write thread.Four si
 
 Cache MemoryMappedFileCommunicator for specific key in factory.
 
-change from NFutureC
+this is the first commit from SourceTree
